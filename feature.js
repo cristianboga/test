@@ -1,0 +1,1 @@
+console.log(helper.objToArray({a: "Andrei"}))
