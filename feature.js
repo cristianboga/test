@@ -4,7 +4,7 @@ const result = helper.objToArray({
         lastName: "Boga",
         age: 31
     },
-    alex: {
+    alina: {
         firstName: "Alina",
         lastName: "Sornea",
         age: 32
