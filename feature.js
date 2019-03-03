@@ -5,8 +5,8 @@ const result = helper.objToArray({
         age: 31
     },
     alex: {
-        firstName: "Alexandru",
-        lastName: "Okros",
+        firstName: "Alina",
+        lastName: "Sornea",
         age: 32
     }
 });
